@@ -1,0 +1,9 @@
+.footer{
+    flex:4;
+    margin: 20px;
+}
+p{
+    padding: 15px 0px;
+    color:gray;
+    vertical-align:middle;
+}
